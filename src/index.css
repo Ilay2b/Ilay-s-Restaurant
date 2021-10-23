@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  font-family: 'Arial';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url("assets/img/background.jpeg");
+  background-size: cover;
+  width: 90%;
+  margin: 0 auto;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

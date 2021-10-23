@@ -1,0 +1,51 @@
+{
+  "name": "ilaybrat",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.4.1",
+    "@emotion/styled": "^11.3.0",
+    "@mui/icons-material": "^5.0.4",
+    "@mui/material": "^5.0.1",
+    "@reduxjs/toolkit": "^1.6.1",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.5.0",
+    "@testing-library/user-event": "^7.2.1",
+    "browserify-fs": "^1.0.0",
+    "fs": "0.0.1-security",
+    "moment": "^2.29.1",
+    "react": "^17.0.2",
+    "react-countdown": "^2.3.2",
+    "react-dom": "^17.0.2",
+    "react-redux": "^7.2.5",
+    "react-scripts": "4.0.3",
+    "redux": "^4.1.1",
+    "redux-logger": "^3.0.6",
+    "styled-components": "^5.3.1",
+    "write-json-file": "^5.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "prop-types": "^15.7.2"
+  }
+}
